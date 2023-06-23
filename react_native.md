@@ -2,7 +2,7 @@
 
 1. Create a fresh new React Native project. [https://reactnative.dev/docs/environment-setup?guide=native&platform=ios](https://reactnative.dev/docs/environment-setup?guide=native&platform=ios)
 
-   ```
+   ```bash
    npm uninstall -g react-native-cli @react-native-community/cli
    #then
    npx react-native@latest init AwesomeProject
@@ -10,7 +10,7 @@
 
 1. install eslint
 
-   ```
+   ```bash
    npm install eslint --save-dev
    #then
    npx eslint --init
